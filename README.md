@@ -23,12 +23,12 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/textgame-with-pygame` 
-- Ziel: Entwickle ein einfaches Spiel mit der Bibliothek pygame, wie z.B. das Bewegen eines Objekts auf dem Bildschirm.
-1. Initialisiere ein neues Pygame-Projekt
-2. Erstelle ein Fenster mit einer bestimmten Größe
-3. Zeichne ein Rechteck (Spieler) auf dem Bildschirm
-4. Bewege das Rechteck mit den Pfeiltasten
-5. Füge eine Schleife hinzu, um das Spiel zu aktualisieren und anzuzeigen
-6. Füge eine Abbruchbedingung hinzu, um das Spiel zu beenden
+## `feature/gui-with-tkinter`: 
+- Ziel: Erstelle eine einfache GUI-Anwendung (z.B. ein Fenster mit einem Button und Textfeld) mit der Bibliothek tkinter.
+1. Installiere die Bibliothek tkinter in der virtuellen Umgebung.
+2. Erstelle eine Python-Datei, die ein einfaches GUI-Fenster mit einem Button und einem Textfeld erstellt.
+3. Füge eine Funktion hinzu, die aufgerufen wird, wenn der Button geklickt wird.
+4. Die Funktion soll den Text im Textfeld ändern oder eine Nachricht ausgeben.
+5. Führe das Skript aus und teste die GUI-Anwendung.
+
 
