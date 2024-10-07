@@ -23,8 +23,8 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/csv-with-pandas` 
-- Ziel: Schreibe ein Programm, das eine Liste von Zufallszahlen erstellt und sie sortiert.
-1. Erstelle eine Liste von 10 Zufallszahlen zwischen 1 und 100.
-2. Sortiere die Liste in aufsteigender Reihenfolge.
-3. Gib die sortierte Liste aus.
+## `feature/json-data` 
+- Ziel: Arbeite mit JSON-Daten, indem du eine JSON-Datei liest und daraus Informationen extrahierst.
+1. Lese die JSON-Datei `data.json` im Projektverzeichnis ein.
+2. Extrahiere die Informationen aus der Datei und gib sie auf der Konsole aus.
+3. Verwende die JSON-Bibliothek von Python, um die Daten zu verarbeiten.
