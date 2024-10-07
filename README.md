@@ -23,3 +23,9 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
+## `feature/diagrams-with-seaborn`: 
+- Ziel: Erstelle ein Diagramm zur Datenvisualisierung mit der Bibliothek seaborn, um einfache statistische Daten zu visualisieren.
+1. Installiere die Bibliothek seaborn in der virtuellen Umgebung.
+2. Erstelle ein Python-Skript, das eine Liste von Zahlen verarbeitet und ein Diagramm mit seaborn erstellt.
+3. Füge Titel, Achsenbeschriftungen und eine Legende hinzu, um das Diagramm zu erklären.
+4. Führe das Skript aus und überprüfe, ob das Diagramm korrekt angezeigt wird.
