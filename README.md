@@ -23,9 +23,10 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/word-processing-with-nltk`: 
-- Ziel: Verwende die Bibliothek nltk zur Textanalyse (z.B. Wörter zählen, häufige Wörter finden).
-1. Installiere die Bibliothek nltk in der virtuellen Umgebung.
-2. Erstelle ein Python-Skript, das einen Text (den kannst du als String z.B. erst definieren) analysiert und verschiedene Informationen (z.B. Anzahl der Wörter, häufigste Wörter) ausgibt.
+## `feature/time-with-time`: 
+- Ziel: Implementiere eine einfache Stoppuhr mit der Bibliothek time.
+1. Implementiere eine einfache Stoppuhr, die die Zeit in Sekunden zählt.
+2. Verwende die Funktionen time() und sleep() aus der Bibliothek time.
+3. Füge eine Funktion hinzu, um die Stoppuhr zu starten und zu stoppen.
 
 
