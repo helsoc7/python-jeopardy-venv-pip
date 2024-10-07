@@ -23,3 +23,8 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
+## `feature/csv-with-pandas` 
+- Ziel: Schreibe ein Programm, das eine Liste von Zufallszahlen erstellt und sie sortiert.
+1. Erstelle eine Liste von 10 Zufallszahlen zwischen 1 und 100.
+2. Sortiere die Liste in aufsteigender Reihenfolge.
+3. Gib die sortierte Liste aus.
