@@ -23,10 +23,9 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/excel-files-with-openpyxl`: 
-- Ziel: Lade und bearbeite Daten in einer Excel-Datei (z.B. Werte auslesen, ändern und speichern).
-1. Installiere die Bibliothek openpyxl in der virtuellen Umgebung.
-2. Erstelle eine Excel-Datei (z.B. daten.xlsx) mit einigen Beispieldaten z.B. Spalte A: Name, Spalte B: Alter, Spalte C: Gehalt
-2. Erstelle ein Python-Skript, das eine Excel-Datei öffnet, Daten liest, verändert und speichert. Es soll außerdem Informationen aus der Excel-Datei ausgeben.
+## `feature/word-processing-with-nltk`: 
+- Ziel: Verwende die Bibliothek nltk zur Textanalyse (z.B. Wörter zählen, häufige Wörter finden).
+1. Installiere die Bibliothek nltk in der virtuellen Umgebung.
+2. Erstelle ein Python-Skript, das einen Text (den kannst du als String z.B. erst definieren) analysiert und verschiedene Informationen (z.B. Anzahl der Wörter, häufigste Wörter) ausgibt.
 
 
