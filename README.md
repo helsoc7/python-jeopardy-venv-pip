@@ -23,3 +23,11 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
+## `feature/csv-with-pandas` 
+Ziel: Arbeite mit CSV-Daten, indem du die Bibliothek pandas verwendest, um Daten zu laden, zu filtern und einfache Berechnungen durchzuführen. 
+1. Installiere pandas 
+2. Erstelle eine csv-Datei mit Beispieldaten 
+3. Lade die Daten in ein DataFrame 
+4. Filtere die Daten nach bestimmten Kriterien 
+5. Berechne einfache Statistiken (z.B. Durchschnitt, Summe) 
+6. Gib die Ergebnisse aus
