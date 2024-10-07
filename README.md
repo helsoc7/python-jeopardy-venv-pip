@@ -23,10 +23,11 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/time-with-time`: 
-- Ziel: Implementiere eine einfache Stoppuhr mit der Bibliothek time.
-1. Implementiere eine einfache Stoppuhr, die die Zeit in Sekunden zählt.
-2. Verwende die Funktionen time() und sleep() aus der Bibliothek time.
-3. Füge eine Funktion hinzu, um die Stoppuhr zu starten und zu stoppen.
+## `feature/email-with-smtplib`: 
+- Ziel: Sende eine E-Mail über Python mit der smtplib-Bibliothek.
+1. Installiere die Bibliothek `smtplib` in der virtuellen Umgebung.
+2. Erstelle ein Python-Skript, das eine E-Mail über einen SMTP-Server sendet. Recherchiere welchen SMTP-Server du verwenden kannst. Du kannst z.B. den Google Mail SMTP-Server verwenden. 
+3. Verwende die `smtplib`-Bibliothek, um eine E-Mail zu senden.
+
 
 
