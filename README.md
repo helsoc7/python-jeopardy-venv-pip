@@ -3,7 +3,7 @@ Das ist ein einfaches Jeopardy-Spiel innerhalb eines Git-Repositories. Es sind v
 Um den Branch zu wechseln, führe den Befehl `git checkout <branch-name>` aus.
 Branches:
 - `master`: Startpunkt des Spiels
-- `feature/csv-with-pandas` https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/csv-with-pandas: CSV-Dateien bearbeiten mit pandas (Schwierigkeitsgrad: leicht) [Hier](https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/csv-with-pandas)
+- `feature/csv-with-pandas`: CSV-Dateien bearbeiten mit pandas (Schwierigkeitsgrad: leicht) [Hier](https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/csv-with-pandas)
 - `feature/randomized-numbers`: Zufallszahlen generieren mit random (Schwierigkeitsgrad: sehr leicht) [Hier](https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/randomized-numbers)
 - `feature/json-data`: JSON-Daten verarbeiten mit json (Schwierigkeitsgrad: leicht) [Hier](https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/json-data)
 - `feature/diagrams-with-seaborn`: Diagramme zeichnen mit seaborn (Schwierigkeitsgrad: mittel) [Hier](https://github.com/helsoc7/python-jeopardy-venv-pip/tree/feature/diagrams-with-seaborn)
