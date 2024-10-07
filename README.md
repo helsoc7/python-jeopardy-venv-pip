@@ -23,3 +23,12 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
+## `feature/textgame-with-pygame` 
+- Ziel: Entwickle ein einfaches Spiel mit der Bibliothek pygame, wie z.B. das Bewegen eines Objekts auf dem Bildschirm.
+1. Initialisiere ein neues Pygame-Projekt
+2. Erstelle ein Fenster mit einer bestimmten Größe
+3. Zeichne ein Rechteck (Spieler) auf dem Bildschirm
+4. Bewege das Rechteck mit den Pfeiltasten
+5. Füge eine Schleife hinzu, um das Spiel zu aktualisieren und anzuzeigen
+6. Füge eine Abbruchbedingung hinzu, um das Spiel zu beenden
+
