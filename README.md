@@ -23,11 +23,10 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/webscrapung-with-request-beautifulsoup4`: 
-- Ziel: Verwende die Bibliothek BeautifulSoup, um Inhalte von Webseiten zu extrahieren und die HTML-Struktur zu verstehen.
-1. Installiere die Bibliotheken requests und BeautifulSoup4 in der virtuellen Umgebung.
-2. Erstelle ein Python-Skript, das eine Webseite herunterlädt und die Struktur analysiert. Hier kannst du z.B. den HTML-Parser von BeautifulSoup verwenden.
-3. Extrahiere Informationen aus der Webseite und speichere sie z.B. in einer CSV-Datei. Alternativ kannst du z.B. auch nur den Titel der Webseite ausgeben.
-
+## `feature/excel-files-with-openpyxl`: 
+- Ziel: Lade und bearbeite Daten in einer Excel-Datei (z.B. Werte auslesen, ändern und speichern).
+1. Installiere die Bibliothek openpyxl in der virtuellen Umgebung.
+2. Erstelle eine Excel-Datei (z.B. daten.xlsx) mit einigen Beispieldaten z.B. Spalte A: Name, Spalte B: Alter, Spalte C: Gehalt
+2. Erstelle ein Python-Skript, das eine Excel-Datei öffnet, Daten liest, verändert und speichert. Es soll außerdem Informationen aus der Excel-Datei ausgeben.
 
 
