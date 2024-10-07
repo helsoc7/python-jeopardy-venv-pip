@@ -23,12 +23,11 @@ Für alle Aufgaben gilt:
 - Führe die Aufgaben aus und versuche, die gestellten Probleme zu lösen.
 - Dokumentiere deine Lösungen und speichere sie in einem Git-Repository.
 
-## `feature/gui-with-tkinter`: 
-- Ziel: Erstelle eine einfache GUI-Anwendung (z.B. ein Fenster mit einem Button und Textfeld) mit der Bibliothek tkinter.
-1. Installiere die Bibliothek tkinter in der virtuellen Umgebung.
-2. Erstelle eine Python-Datei, die ein einfaches GUI-Fenster mit einem Button und einem Textfeld erstellt.
-3. Füge eine Funktion hinzu, die aufgerufen wird, wenn der Button geklickt wird.
-4. Die Funktion soll den Text im Textfeld ändern oder eine Nachricht ausgeben.
-5. Führe das Skript aus und teste die GUI-Anwendung.
+## `feature/webscrapung-with-request-beautifulsoup4`: 
+- Ziel: Verwende die Bibliothek BeautifulSoup, um Inhalte von Webseiten zu extrahieren und die HTML-Struktur zu verstehen.
+1. Installiere die Bibliotheken requests und BeautifulSoup4 in der virtuellen Umgebung.
+2. Erstelle ein Python-Skript, das eine Webseite herunterlädt und die Struktur analysiert. Hier kannst du z.B. den HTML-Parser von BeautifulSoup verwenden.
+3. Extrahiere Informationen aus der Webseite und speichere sie z.B. in einer CSV-Datei. Alternativ kannst du z.B. auch nur den Titel der Webseite ausgeben.
+
 
 
